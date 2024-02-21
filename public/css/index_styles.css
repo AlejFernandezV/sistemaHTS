@@ -1,0 +1,44 @@
+/* CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.logo {
+    width: 60px;
+    margin: 10px;
+    float: left;
+}
+
+.logo-faec{
+    margin-top: 30px;
+    width: 200px !important;
+}
+
+.titulo {
+    color: #3A85F3;
+    text-align: center;
+    text-shadow: -0.5px -0.5px 0 #000,
+                  0.5px -0.5px 0 #000,
+                 -0.5px  0.5px 0 #000,
+                  0.5px  0.5px 0 #000;
+}
+
+.btn-lanzar-app{
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+.subtitulo{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+.descripcion{
+    font-size: 50px !important;
+    text-align: justify;
+}
